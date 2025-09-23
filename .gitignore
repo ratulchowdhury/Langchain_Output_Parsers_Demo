@@ -1,5 +1,6 @@
 # Virtual Environment
 .env/
+demo_env/
 venv/
 env/
 ENV/
